@@ -1,2 +1,2 @@
 # todo-list
-todo list simple web app
+todo-list simple web app
